@@ -31,9 +31,9 @@ namespace GameLibrary
             return String.Format("{0} ({1}) - {2} ({3})", Team1, Team1Score, Team2, Team2Score);
         }
 
-
+//Edit on line 34
     }
 }
 
 //Line change on numero trenta y ocho.
-//Oh No
+//Alright!
